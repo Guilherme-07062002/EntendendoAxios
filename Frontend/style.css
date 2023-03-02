@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(58, 55, 55);
+}
+div, #renderApiResult{
+    margin: 20vh auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.692);
+    padding: 50px;
+    border-radius: 20px;
+    text-align: left;
+}
+input, button{
+    margin-top: 30px;
+}
